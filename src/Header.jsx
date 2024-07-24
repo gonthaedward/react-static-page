@@ -8,7 +8,7 @@ function Header(){
         <>
             <header>
                 <nav className="flex items-center justify-between flex-wrap p-6">
-                    <div className='flex items-center flex-shrink-0 ml-20'>
+                    <div className='flex items-center flex-shrink-0'>
                         <a className='text-white' href='/'>writings.dev</a>
                     </div>
                     {/* below is for menu dropdown when mobile */}

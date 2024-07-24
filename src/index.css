@@ -6,3 +6,11 @@
 *{
     background-color: #232830;
 }
+
+.pagination a:hover{
+    background-color: pink;
+}
+
+.pagination .active:hover{
+    background-color: #232830;
+}
